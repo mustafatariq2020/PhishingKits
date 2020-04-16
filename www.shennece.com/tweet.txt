@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11232412048946008065
----
-URL:
-hxxp://www.shennece.com/.well-known/pki-validation/One-Drive-Arab.zip
-
-Actor:
-historch0lly@gmail.com

@@ -1,9 +1,0 @@
-https://twitter.com/PhishTackler/status/11246993243574853637
----
-URL:
-hxxps://alibaba.vritta.in/Alibaba.com.zip
-
-Actor:
-mailservice658@gmail.com
-
-@AlibabaGroup

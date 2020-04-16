@@ -1,9 +1,0 @@
-https://twitter.com/PhishTackler/status/11236809493520035843
----
-URL:
-hxxp://windsurfcapetown.com/signin/support.zip
-
-Actor:
-mgatr@yahoo.com
-
-@CloudflareHelp

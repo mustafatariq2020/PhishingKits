@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11235180505806622721
----
-URL:
-hxxps://www.kerfoo.com/vendor/phpoption/phpoption/src/uas.zip
-
-Actor:
-ernestsolomon126@gmail.com

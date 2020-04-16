@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11244784677451333634
----
-URL:
-hxxp://rnpss.com/wp-content/plugins/payment/xlsnew.zip
-
-Actor:
-siteblocker@zoho.com

@@ -1,4 +1,0 @@
-https://twitter.com/PhishTackler/status/11248216640304697344
----
-URL:
-hxxps://childrenfirstpediatrics.com.ru/.well-known/acme-challenge/retrieve.zip

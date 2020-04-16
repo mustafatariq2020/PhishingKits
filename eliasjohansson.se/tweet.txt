@@ -1,9 +1,0 @@
-https://twitter.com/PhishTackler/status/11238196588016697344
----
-URL:
-hxxp://eliasjohansson.se/box.com(1).zip
-
-Actor:
-mrvalentinoltd@yandex.com
-
-@boxsupport | @AWSSupport

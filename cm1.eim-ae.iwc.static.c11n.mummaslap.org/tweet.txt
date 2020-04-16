@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11235147075815452672
----
-URL:
-hxxp://cm1.eim-ae.iwc.static.c11n.mummaslap.org/ebillstatement.zip
-
-Actor:
-vvhiterex@protonmail.com

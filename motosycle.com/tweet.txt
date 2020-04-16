@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11238770653379035137
----
-URL:
-hxxps://motosycle.com/.app/zombie.zip
-
-Actor:
-your@email.here

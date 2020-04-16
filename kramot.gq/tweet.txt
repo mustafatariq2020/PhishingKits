@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11236823678098309120
----
-URL:
-hxxp://kramot.gq/adobe.com.zip
-
-Actor:
-devpco11111@gmail.com

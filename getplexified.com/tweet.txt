@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11235133261069922304
----
-URL:
-hxxps://getplexified.com/file/wt.zip
-
-Actor:
-blessed.logs@yandex.com

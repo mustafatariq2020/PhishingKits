@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11248086729371901952
----
-URL:
-hxxps://badboys.se/.well-known/aus/aus.zip
-
-Actor:
-uduaenergy@yahoo.com

@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11236787295698763777
----
-URL:
-hxxp://jurnal.stai-aljawami.ac.id/.well-known/pki-validation/emoji/googledrive.zip
-
-Actor:
-davidpeeples@yandex.com

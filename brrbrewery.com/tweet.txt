@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11236949811192094720
----
-URL:
-hxxps://brrbrewery.com/har/00000000000owa.zip
-
-Actor:
-cathy.champstech@gmail.com

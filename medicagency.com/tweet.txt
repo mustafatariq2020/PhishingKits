@@ -1,9 +1,0 @@
-https://twitter.com/PhishTackler/status/11237317560254836738
----
-URL:
-hxxps://medicagency.com/.well-known/PPL_V7.zip
-
-Actor:
-barbarabaroni639@gmail.com
-
-@AskPayPal

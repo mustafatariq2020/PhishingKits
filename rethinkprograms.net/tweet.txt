@@ -1,7 +1,0 @@
-https://twitter.com/PhishTackler/status/11234989670481612800
----
-URL:
-hxxps://rethinkprograms.net/.well-known/PDDF.zip
-
-Actor:
-ddonwatt@gmail.com
